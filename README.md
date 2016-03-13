@@ -7,9 +7,12 @@
 2. maven v3.2.4
 3. Mysql 5.6
 
+## SQL file
+1. Download SQL file from https://github.com/tushar281188/UserProfile/blob/master/SocialNetwork.sql
+2. Execute given sql file to generate necessary MySql tables.
+
 ##maven commands
 1. mvn clean install jetty:run
-
 2. Do api call "http://localhost:8080/fbDetails?access_token=FB_TOKEN"
 
 e.g
