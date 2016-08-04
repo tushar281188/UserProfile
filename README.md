@@ -9,7 +9,7 @@
 
 ## SQL file
 1. Download SQL file from https://github.com/tushar281188/UserProfile/blob/master/SocialNetwork.sql
-2. Execute given sql file to generate necessary MySql tables.
+2. Execute downloaded sql file(SocialNetwork.sql) to generate necessary MySql tables.
 
 ##maven commands
 1. mvn clean install jetty:run
